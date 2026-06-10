@@ -98,7 +98,7 @@ npm run dev
 bun run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
+Open https://budgetplanner.space-z.ai in your browser to see the app.
 
 ---
 
